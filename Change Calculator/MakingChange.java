@@ -1,5 +1,5 @@
 /*
-*CountApp.java
+*MakingChange.java
 *@author Vlad Vasiljevs
 *09/02/16
 *
